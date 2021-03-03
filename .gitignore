@@ -1,2 +1,11 @@
 .vscode/*
 .vscode/settings.json
+notebooks/.vscode/settings.json
+src/.vscode/settings.json
+src/__pycache__/config.cpython-39.pyc
+notebooks/__pycache__/config.cpython-38.pyc
+notebooks/__pycache__/tools.cpython-38.pyc
+src/__pycache__/config.cpython-37.pyc
+.gitignore
+src/__pycache__/tools.cpython-39.pyc
+notebooks/.ipynb_checkpoints/exploration-checkpoint.ipynb
