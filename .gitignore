@@ -9,3 +9,16 @@ src/__pycache__/config.cpython-37.pyc
 .gitignore
 src/__pycache__/tools.cpython-39.pyc
 notebooks/.ipynb_checkpoints/exploration-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/exploration-checkpoint.ipynb
+src/__pycache__/config.cpython-38.pyc
+src/__pycache__/tools.cpython-38.pyc
+src/__pycache__/model_dispatcher.cpython-39.pyc
+src/catboost_info/learn_error.tsv
+src/catboost_info/test_error.tsv
+src/catboost_info/time_left.tsv
+src/catboost_info/test/events.out.tfevents
+src/catboost_info/learn/events.out.tfevents
+src/catboost_info/tmp/cat_feature_index.fece2627-551d62a0-554b2f45-b8ab3403.tmp
+src/__pycache__/model_dispatcher.cpython-38.pyc
+notebooks/.ipynb_checkpoints/exploration-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/exploration-checkpoint.ipynb
